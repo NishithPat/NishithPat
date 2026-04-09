@@ -23,6 +23,8 @@ DM for audits:
 | 9 | Code4rena | NOYA | Apr 2024 | $695 | 21st |
 | 10 | Code4rena | Predy | May 2024 | $479 | 17th |
 
+More contest results can be found here - https://audits.sherlock.xyz/watson/ni8mare
+
 ## Bug Bounties
 
 | # | Platform | Protocol | Severity | Category | Date | Payout | Report |
