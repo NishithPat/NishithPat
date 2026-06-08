@@ -33,8 +33,6 @@ More contest results can be found here - https://audits.sherlock.xyz/watson/ni8m
 
 ## Private Audits
 
-## Private Audits
-
 | # | Organization | Protocol | Date | Protocol Type | Report |
 |---|---|---|---|---|---|
 | 1 | Pashov Audit Group | YuzuUSD | Aug 2025 | USDC-backed stablecoin, ERC-4626 vault, Staking | [Report](https://github.com/pashov/audits/blob/02e693863d123412e2a0407a73bdacf313b0f305/team/md/YuzuUSD-security-review_2025-08-28.md) |
