@@ -1,4 +1,4 @@
-# ni8mare Security Portfolio
+and biconmand# ni8mare Security Portfolio
 
 ### Independent Web3 Security Researcher focused on securing defi protocols.
 
@@ -33,15 +33,21 @@ More contest results can be found here - https://audits.sherlock.xyz/watson/ni8m
 
 ## Private Audits
 
+## Private Audits
+
 | # | Organization | Protocol | Date | Protocol Type | Report |
 |---|---|---|---|---|---|
 | 1 | Pashov Audit Group | YuzuUSD | Aug 2025 | USDC-backed stablecoin, ERC-4626 vault, Staking | [Report](https://github.com/pashov/audits/blob/02e693863d123412e2a0407a73bdacf313b0f305/team/md/YuzuUSD-security-review_2025-08-28.md) |
-| 2 | Pashov Audit Group | Saffron Fixed Income | Oct 2025 | Lido-backed fixed vs variable yield vaults | N/A |
-| 3 | Pashov Audit Group | Enclave | Oct 2025 | Account abstraction (ERC-4337) | N/A |
-| 4 | Pashov Audit Group | Biconomy | Nov 2025 | Infrastructure & update review | [Report](https://github.com/pashov/audits/blob/02e693863d123412e2a0407a73bdacf313b0f305/team/md/Biconomy-security-review_2025-11-26.md) |
-| 5 | Pashov Audit Group | Zoop | Dec 2025 | Staking, vesting | N/A |
-| 6 | Pashov Audit Group | Bancor | Feb 2026 | DEX, aggregator | N/A |
-| 7 | Pashov Audit Group | RAAC | Feb-Mar 2026 | Vote-escrow (veRAAC) | N/A |
-| 8 | Pashov Audit Group | Tao | Mar 2026 | Cross-chain intents (ERC-7683), ERC-7702, LayerZero integration | N/A |
-| 9 | Failsafe | Fractalized | Sep 2025 | RWA, Uniswap integration, launchpad | [Blog](https://getfailsafe.com/fractalized-smart-contract-audit) |
+| 2 | Failsafe | Fractalized | Sep 2025 | RWA, Uniswap integration, launchpad | [Blog](https://getfailsafe.com/fractalized-smart-contract-audit)
+| 3 | Pashov Audit Group | Saffron Fixed Income | Oct 2025 | Lido-backed fixed vs variable yield vaults | N/A |
+| 4 | Pashov Audit Group | Enclave | Oct 2025 | Account abstraction (ERC-4337) | N/A |
+| 5 | Pashov Audit Group | Biconomy | Nov 2025 | Infrastructure & update review | [Report](https://github.com/pashov/audits/blob/02e693863d123412e2a0407a73bdacf313b0f305/team/md/Biconomy-security-review_2025-11-26.md) |
+| 6 | Pashov Audit Group | Zoop | Dec 2025 | Staking, vesting | N/A |
+| 7 | Pashov Audit Group | Paxos | Jan 2026 | Stablecoin infrastructure, asset-backed tokens | N/A |
+| 8 | Pashov Audit Group | Bancor | Feb 2026 | DEX, aggregator | N/A |
+| 9 | Pashov Audit Group | RAAC | Feb-Mar 2026 | Vote-escrow (veRAAC) | N/A |
+| 10 | Pashov Audit Group | RAAC Multistaking | Mar 2026 | Multistaking contracts, reward distribution | N/A |
+| 11 | Pashov Audit Group | Tao | Mar 2026 | Cross-chain intents (ERC-7683), ERC-7702, LayerZero integration | N/A |
+| 12 | Pashov Audit Group | Bio | May 2026 | ERC-4626 yield vaults | N/A |
+| 13 | Slayer Security | Ammo markets | May 2026 | RWA (bringing bullets on-chain), staking, DEX, fee-on-transfer tokens | N/A |
 
