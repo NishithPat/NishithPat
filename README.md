@@ -1,4 +1,4 @@
-and biconmand# ni8mare Security Portfolio
+# ni8mare Security Portfolio
 
 ### Independent Web3 Security Researcher focused on securing defi protocols.
 
