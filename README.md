@@ -47,5 +47,5 @@ More contest results can be found here - https://audits.sherlock.xyz/watson/ni8m
 | 10 | Pashov Audit Group | RAAC Multistaking | Mar 2026 | Multistaking contracts, reward distribution | N/A |
 | 11 | Pashov Audit Group | Tao | Mar 2026 | Cross-chain intents (ERC-7683), ERC-7702, LayerZero integration | N/A |
 | 12 | Pashov Audit Group | Bio | May 2026 | ERC-4626 yield vaults | N/A |
-| 13 | Slayer Security | Ammo markets | May 2026 | RWA (bringing bullets on-chain), staking, DEX, fee-on-transfer tokens | N/A |
+| 13 | Slayer Security | Ammo markets | May 2026 | RWA (bringing bullets on-chain), staking, DEX, fee-on-transfer tokens | [Report](https://github.com/slayer-security/public-reports/blob/main/pdf/ammo-markets-security-report.pdf) |
 
