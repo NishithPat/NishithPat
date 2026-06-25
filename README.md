@@ -8,6 +8,8 @@ DM for audits:
 - X - [@dkni8mare](https://x.com/dkni8mare)
 - Telegram - [@dkni8mare](https://t.me/dkni8mare)
 
+Also, reach out to us at [Slayer Security](https://slayer-security.xyz/)
+
 ## Audit Contests
 
 | # | Platform | Protocol | Date | Payout | Rank |
